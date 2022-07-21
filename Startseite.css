@@ -12,7 +12,30 @@
 }
 
 .u-section-1 .u-text-2 {
-  margin: 30px 157px 60px;
+  margin: 30px 157px 0;
+}
+
+.u-section-1 .u-social-icons-1 {
+  height: 48px;
+  min-height: 16px;
+  width: 164px;
+  min-width: 68px;
+  margin: 30px auto 60px;
+}
+
+.u-section-1 .u-icon-1 {
+  color: rgb(59, 89, 152) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-2 {
+  color: rgb(85, 172, 238) !important;
+  height: 100%;
+}
+
+.u-section-1 .u-icon-3 {
+  color: rgb(197, 54, 164) !important;
+  height: 100%;
 }
 
 @media (max-width: 1199px) {
@@ -47,4 +70,6 @@
   .u-section-1 .u-sheet-1 {
     min-height: 239px;
   }
+}.u-section-2 .u-sheet-1 {
+  min-height: 168px;
 }
